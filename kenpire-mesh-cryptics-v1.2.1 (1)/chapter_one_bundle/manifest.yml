@@ -1,0 +1,11 @@
+hidden_payloads:
+  ROOSTER_TRIGGER:
+    kind: "wake_pulse"
+    actor: "RoosterOps"
+    version: "1"
+    time_nonce: "2025-09-21T00:00:00Z"
+    repo_tag: "v1.2.1"
+    command: "/pulse morning"
+    integrity:
+      sha256_of_poster: "<TO_BE_FILLED>"
+      signature: "<TO_BE_FILLED>"
