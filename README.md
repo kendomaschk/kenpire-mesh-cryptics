@@ -1,3 +1,4 @@
+Markdown
 [![Release](https://img.shields.io/github/v/release/kendomaschk/kenpire-mesh-cryptics)](https://github.com/kendomaschk/kenpire-mesh-cryptics/releases/latest)
 
 # kenpire-mesh-cryptics
@@ -21,11 +22,11 @@ Run the RoosterOps watcher:
 
 ```bash
 python scripts/triggers/rooster_watch.py chapter_one_bundle/poster_cryptic.png chapter_one_bundle/manifest.yml
+
+Expected output:
+Plaintext
 [RoosterOps] Good morning, Mesh. Crowww!
 
-👉 Copy-paste this **exactly** into your `README.md`, commit, and refresh — you’ll see:  
-- Quickstart in its own code block  
-- Expected output in a separate code block  
-- Mantra cleanly styled as its own section  
 
-Do you want me to generate the **same polished README for your `kenpire-mesh-sdk` repo** so both repos match?
+🧭 Mantra
+Build. Loop. Proof. Skate. Signal. Repeat.
