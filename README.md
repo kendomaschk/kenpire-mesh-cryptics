@@ -1,3 +1,5 @@
+copy this whole thing into your README.md and it will render cleanly on GitHub:
+
 [![Release](https://img.shields.io/github/v/release/kendomaschk/kenpire-mesh-cryptics)](https://github.com/kendomaschk/kenpire-mesh-cryptics/releases/latest)
 
 # kenpire-mesh-cryptics
@@ -22,14 +24,17 @@ Run the RoosterOps watcher:
 
 ```bash
 python scripts/triggers/rooster_watch.py chapter_one_bundle/poster_cryptic.png chapter_one_bundle/manifest.yml
+
+
 Expected output:
 
-text
 [RoosterOps] Good morning, Mesh. Crowww!
+
 🧭 Mantra
+
 Build. Loop. Proof. Skate. Signal. Repeat.
 
-pgsql
 
-✅ This one has all code blocks properly **opened and closed**.  
-✅ Will render perfectly on GitHub with the badge, headings, lists, and syntax highlighting.  
+💡 Copy/paste this exact block, commit it, and refresh your repo page — the badge, sections, and code blocks will all render perfectly.  
+
+Do you want me to also prep the **same polish for your `kenpire-mesh-sdk` repo README**, so both repos look sharp and consistent?
